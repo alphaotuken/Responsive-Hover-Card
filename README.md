@@ -1,5 +1,5 @@
 # Responsive Card Hover Effect
-### ⭐ BY TALO
+### BY TALO
 
 <a href="https://alphaotuken.github.io/Responsive-Hover-Card/"><strong>➥ Live Demo</strong></a>
 
