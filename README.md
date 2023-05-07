@@ -10,7 +10,7 @@
 
 ### Demo Screeshots
 
-![Responsive-Card Desktop Demo](https://user-images.githubusercontent.com/100890340/236624604-e5265fce-65b1-49ec-9602-da9e782216d3.png)
+![Responsive-Card Desktop Demo](https://user-images.githubusercontent.com/100890340/236663618-f76194c8-f0d5-49e0-b49a-9d57206f3bd5.png)
 
 ### Contact
 
