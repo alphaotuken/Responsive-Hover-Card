@@ -1,7 +1,7 @@
 # Responsive Card Hover Effect
 ### ⭐ BY TALO
 
-<a href="https://alphaotuken.github.io/404-Responsive-Page/"><strong>➥ Live Demo</strong></a>
+<a href="https://alphaotuken.github.io/Responsive-Hover-Card/"><strong>➥ Live Demo</strong></a>
 
 - CSS Card Hover Effects | HTML & CSS
 - Responsive card with hover effects showing gradient elements.
